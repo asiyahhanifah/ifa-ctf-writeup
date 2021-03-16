@@ -10,4 +10,4 @@ Connect here: </br>
 ### <b> Solution: </b>
 kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
 
-![gambar 1](./1r.png)
+![gambar 1](./nahamcon-writeup-file/1r.png)
