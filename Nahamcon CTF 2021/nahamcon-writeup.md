@@ -36,6 +36,6 @@ Perform some online reconnaissance to track down a flag on the merch store!
 ### <b> Solution: </b>
 kunjungi linknya. Inspect element web tersebut. Kemudian cari flagnya. Sehingga flag dapat ditemukan seperti gambar berikut </br>
 
-![gambar 2](./nahamcon-writeup-file/3m.png)
+![gambar 3](./nahamcon-writeup-file/3m.png)
 
 <hr>
