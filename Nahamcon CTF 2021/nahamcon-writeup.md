@@ -11,3 +11,17 @@ Connect here: </br>
 kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
 
 ![gambar 1](./nahamcon-writeup-file/1r.png)
+
+<hr>
+
+
+## 2. HTB Village
+### <b> Problem: </b>
+Come join the party at the [HTB Village](https://discord.com/invite/Na9mxe7YGW), and track down a flag!
+
+### <b> Solution: </b>
+kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
+
+![gambar 1](./nahamcon-writeup-file/2h.png)
+
+<hr>
