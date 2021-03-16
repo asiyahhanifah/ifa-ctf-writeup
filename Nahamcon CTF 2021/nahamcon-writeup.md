@@ -22,6 +22,20 @@ Come join the party at the [HTB Village](https://discord.com/invite/Na9mxe7YGW),
 ### <b> Solution: </b>
 kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
 
-![gambar 1](./nahamcon-writeup-file/2h.png)
+![gambar 2](./nahamcon-writeup-file/2h.png)
+
+<hr>
+
+
+## 3. Merch Store
+### <b> Problem: </b>
+Check out our [Merch Store](https://www.nahamcon.com/merch)! A portion of the proceeds go to support Women in CyberSecurity @WiCySorg!
+
+Perform some online reconnaissance to track down a flag on the merch store!
+
+### <b> Solution: </b>
+kunjungi linknya. Inspect element web tersebut. Kemudian cari flagnya. Sehingga flag dapat ditemukan seperti gambar berikut </br>
+
+![gambar 2](./nahamcon-writeup-file/3m.png)
 
 <hr>
