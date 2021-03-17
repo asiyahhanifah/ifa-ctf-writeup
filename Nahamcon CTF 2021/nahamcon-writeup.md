@@ -69,7 +69,7 @@ Come join the party at the [Live Recon Village](https://discord.com/invite/Na9mx
 ### <b> Solution: </b>
 kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
 
-![gambar 4](./nahamcon-writeup-file/6l.png)
+![gambar 6](./nahamcon-writeup-file/6l.png)
 
 <hr>
 
