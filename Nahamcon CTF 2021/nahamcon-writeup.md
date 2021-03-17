@@ -58,7 +58,7 @@ Come join the party at the [IoT Village](https://discord.com/invite/Na9mxe7YGW),
 ### <b> Solution: </b>
 kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
 
-![gambar 4](./nahamcon-writeup-file/5i.png)
+![gambar 5](./nahamcon-writeup-file/5i.png)
 
 <hr>
 
