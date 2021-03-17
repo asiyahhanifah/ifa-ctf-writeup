@@ -39,3 +39,14 @@ kunjungi linknya. Inspect element web tersebut. Kemudian cari flagnya. Sehingga 
 ![gambar 3](./nahamcon-writeup-file/3m.png)
 
 <hr>
+
+## 4. INE Career Corner
+### <b> Problem: </b>
+Come join the party at the [INE Career Corner](https://discord.com/invite/Na9mxe7YGW), and track down a flag!
+
+### <b> Solution: </b>
+kunjungi linknya. Kemudian akan terlihat flagnya seperti gambar berikut. </br>
+
+![gambar 4](./nahamcon-writeup-file/4i.png)
+
+<hr>
